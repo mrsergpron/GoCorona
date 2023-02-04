@@ -2,4 +2,4 @@
 - Проект построен на: HTML / SCSS / Flex
 - Gulp сборка
 - Адаптированный
-- [Открыть проект]()
+- [Открыть проект](https://mrsergpron.github.io/gocorona/)
